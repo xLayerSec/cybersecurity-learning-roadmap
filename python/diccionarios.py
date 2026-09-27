@@ -5,7 +5,7 @@
 # encontrar su definición (valor).
 
 # Se definen utilizando llaves {}. Las claves deben ser Unicas e inmutables (generalmente textos
-# o nUmeros), y los valores pueden ser de cualquier tipo de dato (incluso listas u otros 
+# o numeros), y los valores pueden ser de cualquier tipo de dato (incluso listas u otros 
 # diccionarios).
 
 # ¿Por que son tan importantes?
