@@ -37,3 +37,15 @@ puertos = [21, 22, 80, 443, 8080]
 # Queremos desde el indice 1 hasta el 3
 sub_lista = puertos[1:4] 
 print(sub_lista)  # Resultado: [22, 80, 443] (extrajo los indices 1, 2 y 3, ignorando el 4 y el 0)
+
+
+# Aplicacion practica en Ciberseguridad
+# Imagina que estás analizando una línea de log y quieres separar la fecha o extraer un fragmento 
+# específico de una trama de red:
+
+# Una línea de log de un servidor
+log = "2026-09-27 ACCESO_DENEGADO"
+
+# Como un texto en Python también funciona como una lista de caracteres:
+fecha = log[0:10]  # Extrae desde el indice 0 hasta el 9
+print(fecha)       # Resultado: 2026-09-27
