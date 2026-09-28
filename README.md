@@ -13,5 +13,5 @@ Cada tecnología cuenta con su propio directorio y su respectivo roadmap detalla
 ├── python/         # De fundamentos a desarrollo avanzado y seguridad
 ├── bash/           # Automatización y scripting en Linux
 ├── vbs/            # Automatización y entornos Windows heredados
-├── cpp/            # Bajo nivel, rendimiento y gestión de memoria
+├── c++/            # Bajo nivel, rendimiento y gestión de memoria
 └── cybersecurity/  # Teoría, metodologías y herramientas defensivas
