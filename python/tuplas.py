@@ -1,6 +1,6 @@
 # Concepto: Tuplas
 
-# Una tupla es muy similar a una lista (una colecciOn ordenada de elementos), pero con una
+# Una tupla es muy similar a una lista (una coleccion ordenada de elementos), pero con una
 # diferencia crucial: son inmutables. Esto significa que una vez que se crea una tupla, no se
 # puede modificar (no puedes añadir, eliminar ni cambiar elementos).
 
